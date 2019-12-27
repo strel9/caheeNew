@@ -340,9 +340,11 @@ h2 {
     .ba-contact-form textarea::placeholder,
     .ba-contact-form input::placeholder {
       color: white; }
-  .ba-contact-details p {
+  .ba-contact-right p {
     font-size: 20px;
     margin-top: 0; }
+  .ba-contact-right-title {
+    font-weight: bold; }
 
 /* /section ba-contact  */
 /* section ba-footer */
